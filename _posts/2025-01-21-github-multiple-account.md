@@ -1,6 +1,7 @@
 ---
 title: "Multiple Github accounts setup in Windows"
 date: 2025-01-21
+categories: github
 ---
 
 # Description
