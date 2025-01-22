@@ -1,7 +1,11 @@
 ---
-title: Welcome to my blog
+title: Welcome to Zhao's notes
 ---
 
-# Azure Cloud Infrastructure as Code
+I'm Brisbane based senior Azure consultant and platform engineer.
 
-This repository contains the Infrastructure as Code 
+This is a place for all my work notes. Topic includes Github, Azure, Infrastructure, Platform, OS and other IT Administrator tasks.
+
+Please contact me by email: zzy198700@hotmail.com
+
+John Zhao

@@ -1,4 +1,9 @@
 theme: minima
-title: Zhao Zongyuan Blog
-author: Zhao Zongyuan
+title: Zhao's notes
+author: John Zhao
 email: zzy198700@hotmail.com
+collections:
+  github_notes:
+    output: true
+    permalink: /:collection/:categories:output_ext
+    title: Github notes
