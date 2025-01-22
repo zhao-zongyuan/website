@@ -2,6 +2,4 @@ theme: minima
 title: Zhao's notes
 author: John Zhao
 email: zzy198700@hotmail.com
-collections:
-  categories:
-    output: true
+
