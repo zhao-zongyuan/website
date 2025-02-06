@@ -1,7 +1,7 @@
 ---
 title: "Github Pages"
 date: 2025-01-21
-categories: azure
+categories: github
 ---
 
 # Info

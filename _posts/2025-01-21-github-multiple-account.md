@@ -24,6 +24,7 @@ categories: github
 # Multiple SSH (optional)
 Follow [this](https://www.baeldung.com/linux/ssh-private-key-git-command#:~:text=One%20way%20we%20can%20specify,ssh%2Fconfig%20file.)
 
+and [this](https://gist.github.com/oanhnn/80a89405ab9023894df7) to create ssh key.
 
 # Multiple account for Github
 
