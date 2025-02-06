@@ -35,6 +35,6 @@ categories: azure
 5.  Terraform needs customized container 
     [reference](https://learn.microsoft.com/en-us/azure/deployment-environments/configure-environment-definition#:~:text=ADE%20supports%20custom%20container%20images%20for%20environment%20deployments%2C%20which%20can%20help%20deploy%20IaC%20frameworks%20such%20as%20Pulumi%20and%20Terraform.)
 
-    ![image](../_assets/images/2025-02-06-azure-developer-environment/tf_custom_container.png) 
+    ![image](/assets/images/2025-02-06-azure-developer-environment/tf_custom_container.png) 
 
 
