@@ -45,4 +45,14 @@ The file ``categories.html`` is a page for grouping posts with same categories. 
 
 [Markdown Syntax](https://www.markdownguide.org/basic-syntax/)
 
+### Image
+To incert an image
+
+``` ![image](url) ```
+
+Github Page will generate html from md and will put the post html in subfolders. [This blog](https://simulatine.github.io/100DaysOfCode/day-2-images-in-github-jekyll-blog-posts.html) is a good explain about how it works.
+
+Example image can be found in post https://zhao-zongyuan.github.io/website/azure/2025/02/06/azure-developer-environment.html 
+
+Source code: https://github.com/zhao-zongyuan/website/blob/main/_posts/2025-02-06-azure-developer-environment.md?plain=1 
 
