@@ -120,3 +120,8 @@ All above references can be ignored if you want to follow me.
     runner: "{YOUR_REGISTRY}.azurecr.io/{YOUR_REPOSITORY}:{YOUR_TAG}"
     ```
 
+### The useful links
+
+[ADE predefined environment variables](https://github.com/Azure/deployment-environments/blob/main/documentation/custom-image-support/ade-environment-variables.md)
+
+[Configure Terraform image](https://github.com/Azure/deployment-environments/blob/main/documentation/custom-image-support/configure-terraform-image.md)
